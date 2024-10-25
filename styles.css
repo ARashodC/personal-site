@@ -1,8 +1,8 @@
 body {
   background-color: lightslategrey;
   margin: auto;
-  width: 50%;
-  border: 4px solid gray;
+  width: 90%;
+  border: 4px solid black;
 }
 
 h1 {
@@ -27,4 +27,9 @@ nav {
 
 main {
   font-size: larger;
+}
+
+#chill-pic {
+  margin: auto;
+  width: 100%;
 }
